@@ -63,3 +63,21 @@ Once the selection of all the foods is done it will display the total amount of 
   * Contaminated Food
   * Economic Downturn
   * Competition
+
+## 4W's and 1'H
+
+### WHO:
+* Any restaurants, cafes and hotels who are willing to opt and install the online mode of food management system.
+
+### WHAT:
+* Replacing the entire manual process right from serving food to billing, it is an efficient process. 
+
+### WHEN:
+* The Coronavirus (COVID-19) has turned out to be deadly to all kinds of public gathering hotels and restaurants. But it has also presented an opportunity for online food delivery businesses to continue to grow and expand. Since people can’t go out in public places, the only option for them is to order food online and get delivered at home.
+* Not only due to pandemic but this system has it's own benefits which is worth opting.
+
+### WHERE:
+* All parts of the world, considering the busiest lifestyle.
+
+### HOW:
+* Having a developer hired to develop and maintain the entire system would be more than sufficient along with the tech support.
