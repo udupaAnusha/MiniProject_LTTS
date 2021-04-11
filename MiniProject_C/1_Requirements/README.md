@@ -95,3 +95,15 @@ Once the selection of all the foods is done it will display the total amount of 
 | HR6   | Using the system, the user shall be able to select his choice of fooditem from the menu  |
 | HR7   | the total bill is created depending on the items in the cart                             |
 | HR6   | the system asks for the confirmation before the order is processed                       |
+
+### Low Level Requirements:
+|  ID   |                             Description                                                                     |
+| :---: |                                :---                                                                         |
+| LR1   | the restaurants shall provide hygiene food                                                                  |
+| LR2   | the restaurants shall take care of the packaging and delivery of the food in an efficient manner with care  |
+| LR3   | the food menu must be pocket friendly                                                                       |
+| LR4   | the restaurant's availability during the open hours                                                         |
+| LR5   | the system shall display the list of food items available                                                   |
+| LR6   | the customer shall be able to call the restaurant                                                           |
+| LR7   | the restaurants must take care of the SOPs considering the pandemic situation                               |
+
