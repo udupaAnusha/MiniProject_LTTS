@@ -89,7 +89,9 @@ Once the selection of all the foods is done it will display the total amount of 
 | :---: |                                :---                                                      |
 | HR1   | Using the system, the user shall be able to signup to create a new account               |
 | HR2   | Using the system, the user shall be able to login into his account                       |
-| HR3   | Using the system, the user can select his choice of hotel/restaurants to order an item   |
-| HR4   | Using the system, the user shall be able to select his choice of fooditem from the menu  |
-| HR5   | the total bill is created depending on the items in the cart                             |
+| HR3   | the system shall display the list of the restaurants/hotels for customer's choice        |
+| HR4   | Using the system, the user can select his choice of hotel/restaurants to order an item   |
+| HR5   | the system shall display the list of food items available                                |
+| HR6   | Using the system, the user shall be able to select his choice of fooditem from the menu  |
+| HR7   | the total bill is created depending on the items in the cart                             |
 | HR6   | the system asks for the confirmation before the order is processed                       |
