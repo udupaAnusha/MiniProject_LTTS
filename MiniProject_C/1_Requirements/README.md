@@ -29,4 +29,12 @@
 
 ## Functionalities:
 
-**1. SignUp and Login:**  ajsh
+**1. SignUp and Login:**  The main function signup validates the inputs given in creating a new account of the customer with the username, email, password, phone number etc.
+Some of the rules to be followed inorder for the system to successfully validate the account like username containing alphabets, mobile number with 10 digits etc. After successful validation, the customer can login and search the hotels and foods.
+
+**2. Search by Hotel and Food:**  The list of hotels available are displayed here, and the user can choose from these which inturn displays the list of food items available.
+Once the selection of all the foods is done it will display the total amount of food selected. Move to Select Cart for the successful ordering of the foods.
+
+**3. Cart:**  Displays the total cost of your orders and also confirms your order.
+
+## SWOT ANALYSIS:
