@@ -38,3 +38,28 @@ Once the selection of all the foods is done it will display the total amount of 
 **3. Cart:**  Displays the total cost of your orders and also confirms your order.
 
 ## SWOT ANALYSIS:
+
+* **STRENGTHS:**
+  * Fresh Food
+  * Experienced staff & Strong delivery system
+  * Modified Menu
+  * Cheaper Prices
+
+* **WEAKNESS:**
+  * Limited Capital
+  * Costly Food
+  * High Turnover
+  * Lack of Trust among the Public
+
+* **OPPORTUNITIES:**
+  * Food Trucks and Wagons
+  * Alliances with Bars
+  * Improved Customer Service
+  * COVID-19
+
+* **THREATS:**
+  * Cheaper Prices of Competitors
+  * Restriction on the Food Truck
+  * Contaminated Food
+  * Economic Downturn
+  * Competition
