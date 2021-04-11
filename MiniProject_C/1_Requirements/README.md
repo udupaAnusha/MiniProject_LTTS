@@ -81,3 +81,15 @@ Once the selection of all the foods is done it will display the total amount of 
 
 ### How:
 * Having a developer hired to develop and maintain the entire system would be more than sufficient along with the tech support.
+
+## Detail Requirements:
+
+### High Level Requirements:
+|  ID   |                             Description                                                  |
+| :---: |                                :---                                                      |
+| HR1   | Using the system, the user shall be able to signup to create a new account               |
+| HR2   | Using the system, the user shall be able to login into his account                       |
+| HR3   | Using the system, the user can select his choice of hotel/restaurants to order an item   |
+| HR4   | Using the system, the user shall be able to select his choice of fooditem from the menu  |
+| HR5   | the total bill is created depending on the items in the cart                             |
+| HR6   | the system asks for the confirmation before the order is processed                       |
