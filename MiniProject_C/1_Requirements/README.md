@@ -7,7 +7,7 @@
 * Just like that the idea of going out to the restaurants and nearby cafes has also been not possible until now, but an idea of online food ordering directly to your home is the ideal solution in such pandemic situations. 
 * My project meets the customer needs by fulfilling their cravings giving home deliveries 24/7.
 
-## Research:
+## Literature Survey:
 
 ### Features:
 
@@ -37,7 +37,7 @@ Once the selection of all the foods is done it will display the total amount of 
 
 **3. Cart:**  Displays the total cost of your orders and also confirms your order.
 
-## SWOT ANALYSIS:
+## SWOT Analysis:
 
 * **STRENGTHS:**
   * Fresh Food
@@ -66,18 +66,18 @@ Once the selection of all the foods is done it will display the total amount of 
 
 ## 4W's and 1'H
 
-### WHO:
+### Who:
 * Any restaurants, cafes and hotels who are willing to opt and install the online mode of food management system.
 
-### WHAT:
+### What:
 * Replacing the entire manual process right from serving food to billing, it is an efficient process. 
 
-### WHEN:
+### When:
 * The Coronavirus (COVID-19) has turned out to be deadly to all kinds of public gathering hotels and restaurants. But it has also presented an opportunity for online food delivery businesses to continue to grow and expand. Since people can’t go out in public places, the only option for them is to order food online and get delivered at home.
 * Not only due to pandemic but this system has it's own benefits which is worth opting.
 
-### WHERE:
+### Where:
 * All parts of the world, considering the busiest lifestyle.
 
-### HOW:
+### How:
 * Having a developer hired to develop and maintain the entire system would be more than sufficient along with the tech support.
