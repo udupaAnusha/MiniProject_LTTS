@@ -5,10 +5,18 @@
 
 # Folder Structure:
 
-|       Folder      |                   Description                       |
-|        :---       |                       :---                          |
-| 1_Requirements    | Documents detailing requirements and research       |
-| 2_Design          | Documents specifying design details                 |
-| 3_Implementation  | All code and documentation                          |
-| 4_Test_plan and Output| Documents with test plans and procedures, with outputs       |
-| 5_Videos          |   Small explaination captures of the project        |
+|       Folder          |                   Description                          |
+|        :---           |                       :---                             |
+| 1_Requirements        | Documents detailing requirements and research          |
+| 2_Design              | Documents specifying design details                    |
+| 3_Implementation      | All code and documentation                             |
+| 4_Test_plan and Output| Documents with test plans and procedures, with outputs |
+| 5_Videos              |   Small explaination captures of the project           |
+
+# Contributors List:
+* **SFID: 266918**
+* **Name:** Anusha Lakshmi
+* Disclamer: This project is done soley by me and was able to finish it with the help of some additional resources found on google.
+
+# Learning Resources:
+
