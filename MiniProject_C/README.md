@@ -19,4 +19,7 @@
 * Disclamer: This project is done soley by me and was able to finish it with the help of some additional resources found on google.
 
 # Learning Resources:
-
+* [markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [markdown Basics](https://guides.github.com/features/mastering-markdown/)
+* [Google](https://www.google.com)
+* [C Basics](https://developerinsider.co/c-programming-language-cheat-sheet/)
