@@ -3,6 +3,10 @@
 * Buon Pasto is an italian word which means "Happy meal!"
 * This project is just a basic C language program which can be further modified and extended to an actual application by adding a database and front-end UI to it making it more    attractive and useful. 
 
+
+
+![Buon Pasto](banner.jpg)
+
 # Folder Structure:
 
 |       Folder          |                   Description                          |
