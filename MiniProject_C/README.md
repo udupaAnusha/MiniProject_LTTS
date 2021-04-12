@@ -1,4 +1,6 @@
-# Project Information
+# Buon Pasto
+* Buon Pasto is an online food delivering system, where you can create your own account and order food from your favourite nearby restaurants.
+* Buon Pasto is an italian word which means "Happy meal!"
+* This project is just a basic C language program which can be further modified and extended to an actual application by adding a database and front-end UI to it making it more    attractive and useful. 
 
-* Add a brief discription about the project
-* Add the information about extra folders or files added
+# Folder Structure:
