@@ -20,7 +20,7 @@
 # Contributors List:
 * **SFID: 266918**
 * **Name:** Anusha Lakshmi
-* Disclamer: This project is done soley by me and was able to finish it with the help of some additional resources found on google.
+* Disclamer: This project done with the help of some additional resources found on google.
 
 # Learning Resources:
 * [markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
